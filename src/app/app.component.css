@@ -1,0 +1,19 @@
+.app {
+    font-family: "Lucida Console";
+    background-color:  black;
+    color: honeydew;
+    min-height: calc(100vh - 100px);
+    padding: 50px;
+    margin: 0;
+}
+h1 {
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 fa-icon{
+    color: white;
+    display: inline-block;
+    transform: rotate(30deg);
+}
