@@ -1,0 +1,2 @@
+# ngmovieRater
+Angular web project
